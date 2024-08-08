@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod test2 APIs "
+  message: "Welcome to EazyBank accounts related prod test cloud bus APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner Encrypted"
     email: "{cipher}ab3fbd5dbbdb4582007ad24800560aca36bead45a7bf7d0ab14c312a89c2a347ef89417edd61f70378aa0cd5c0a4ea67"
